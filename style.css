@@ -1,8 +1,14 @@
-#virus4,img
+body
+{
+	
+	background-color:white;
+}
+
+img
               {
-                 height:20px;
-                 width:20px;
-                 padding-top:1px;
+                 height:18px;
+                 width:18px;
+                 padding-top:3px;
 				 display:inline;
 				 float:left;
 				
@@ -10,15 +16,26 @@
 			  a
 					{
 					position:relative;
-					left:848px;
-					margin:20px;
+					left:895px;
+					margin:13px;
 					text-decoration:none;
 					color:gray;
 					font-size:13px;
 					}
 					
-			     #header
-				      {
-					  border:px solid black;
-					  }s 
-			   
+#head
+	      {
+		  border:px solid black;
+		  height:24px;
+		  width:1350px;
+		  margin-top:0px;
+		  }
+					  
+
+       {
+		   height:300px;
+		   width:400px;
+		   border:2px solid black;
+		   
+		   
+	   }					  
