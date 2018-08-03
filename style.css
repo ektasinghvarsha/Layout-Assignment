@@ -4,7 +4,7 @@ body
 	background-color:white;
 }
 
-img
+  #pic1
               {
                  height:18px;
                  width:18px;
@@ -13,7 +13,9 @@ img
 				 float:left;
 				
                }
-			  a
+
+
+		    a
 					{
 					position:relative;
 					left:899px;
@@ -25,17 +27,71 @@ img
 					
 #head
 	      {
-		  border:px solid black;
+		  border:2px solid red;
 		  height:24px;
-		  width:1350px;
+		  width:1340px;
 		  margin-top:0px;
 		  }
 					  
-
+#pic2
        {
 		   height:300px;
-		   width:400px;
+		   width:1340px;
 		   border:2px solid black;
 		   
-		   
-	   }					  
+		}					  
+
+
+#div3
+     {
+	   border:2px solid red;
+       height:340px;
+       width:1340px;
+	  
+          
+	 }
+      
+#p1
+   {
+	
+	font-size:35px;
+	margin-top:160px;
+	margin-left:160px;
+	font-family:Calibri;
+	float:left;
+	
+	
+	}
+u
+{
+	text-decoration-color:yellow;
+		
+}
+
+#p2
+{
+	margin-left:500px;
+	margin-top:160px;
+	text-align:left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	  
+	  
+	  
+	  
+	  
+	  
+	  
