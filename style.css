@@ -27,7 +27,7 @@ body
 					
 #head
 	      {
-		  border:2px solid red;
+		  border:hide;
 		  height:24px;
 		  width:1340px;
 		  margin-top:0px;
@@ -37,14 +37,14 @@ body
        {
 		   height:300px;
 		   width:1340px;
-		   border:2px solid black;
+		   border:hide;
 		   
 		}					  
 
 
 #div3
      {
-	   border:2px solid red;
+	   border:hide;
        height:340px;
        width:1340px;
 	  
@@ -55,7 +55,7 @@ body
    {
 	
 	font-size:35px;
-	margin-top:160px;
+	margin-top:10px;
 	margin-left:160px;
 	font-family:Calibri;
 	float:left;
